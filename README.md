@@ -6,6 +6,10 @@
 - **Project objective:** 
 
     **1.** Conduct a comprehensive comparison between _[Sales_Report](https://github.com/hetushah2708/Excel-Sales-Analysis/blob/main/Sales_Report.pdf)_
+  
+    **2.** Analyze and visualize 'Vrinda Stores' annual sales data using Excel to derive actionable insights on performance trends across categories, regions, and customer demographics." _[Store_Analysis] 
+  (https://github.com/hetushah2708/Excel-Sales-Analysis/blob/main/Stores%20Analysis_Proj.pdf)_
+  
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
